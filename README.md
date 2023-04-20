@@ -1,4 +1,4 @@
 # GifExpertApp
 
 
-este es mi repositorio del proyecto de fernando
+Este es mi repositorio del proyecto de React 
